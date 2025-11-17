@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: Elementor Page Builder Assistant
- * Plugin URI: https://github.com/shavcode/elementor-page-builder-assistant
+ * Plugin URI: https://github.com/bayramsavluk/elementor-page-builder-assistant
  * Description: Streamline your Elementor workflow by bulk importing template kits to pages and header/footer sections with built-in translation support.
  * Version: 1.0.0
- * Author: Shav Code
- * Author URI: https://shavcode.com
+ * Author: bayramsavluk
+ * Author URI: https://bayramsavluk.com
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Text Domain: elementor-bulk-importer
@@ -14,7 +14,7 @@
  * Tested up to: 6.8
  * Requires PHP: 7.0
  * Elementor tested up to: 3.20.0
- * Donate link: https://www.patreon.com/shavcode
+ * Donate link: https://www.patreon.com/bayramsavluk
  *
  * @package Elementor_Bulk_Importer
  */

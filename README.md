@@ -13,19 +13,19 @@ Streamline your Elementor workflow by bulk importing template kits to pages and 
 
 ## Key Features
 
-### 🚀 Bulk Template Import
+### Bulk Template Import
 - Import multiple Elementor templates to pages in a single operation
 - Add rows dynamically to create multiple pages at once
 - Automatically apply template kits from your library
 - Set page templates, parent pages, and other WordPress page attributes in bulk
 
-### 📐 Header & Footer Management
+### Header & Footer Management
 - Import template kit sections as header, footer, or before-footer layouts
 - Seamless integration with popular header/footer plugins
 - Configure display rules and location targeting
 - Support for Elementor Canvas template layouts
 
-### 🌍 Built-in Translation Engine
+### Built-in Translation Engine
 - Translate imported templates on-the-fly during import
 - Support for multiple translation APIs:
   - MyMemory Translation
@@ -37,7 +37,7 @@ Streamline your Elementor workflow by bulk importing template kits to pages and 
 - Preserves Elementor structure while translating text content
 - Smart content detection for headings, paragraphs, buttons, and widgets
 
-### 💡 User-Friendly Interface
+### User-Friendly Interface
 - Clean, intuitive admin interface integrated with WordPress
 - Real-time import progress indicators
 - Batch processing with visual feedback
@@ -61,7 +61,7 @@ Streamline your Elementor workflow by bulk importing template kits to pages and 
 
 ### Manual Installation
 
-1. Download the plugin zip file from [Releases](https://github.com/shavcode/elementor-page-builder-assistant/releases)
+1. Download the plugin zip file from [Releases](https://github.com/bayramsavluk/elementor-page-builder-assistant/releases)
 2. Navigate to **Plugins > Add New > Upload Plugin**
 3. Choose the downloaded file and click "Install Now"
 4. Activate the plugin through the Plugins menu
@@ -179,8 +179,8 @@ Please ensure your code follows WordPress coding standards and includes appropri
 ## Support
 
 For support requests, please:
-- Check the [Documentation](https://github.com/shavcode/elementor-page-builder-assistant/wiki)
-- Search existing [Issues](https://github.com/shavcode/elementor-page-builder-assistant/issues)
+- Check the [Documentation](https://github.com/bayramsavluk/elementor-page-builder-assistant/wiki)
+- Search existing [Issues](https://github.com/bayramsavluk/elementor-page-builder-assistant/issues)
 - Create a new issue if your problem hasn't been addressed
 
 ## Changelog
@@ -202,7 +202,7 @@ This plugin is licensed under the GPL v2 or later.
 
 ```
 Elementor Page Builder Assistant
-Copyright (C) 2025 Shav Code
+Copyright (C) 2025 bayramsavluk
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -215,19 +215,3 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 ```
 
-## Support Development
-
-If you find this plugin helpful, please consider supporting development:
-
-[![Support on Patreon](https://img.shields.io/badge/Patreon-Support%20Development-orange.svg)](https://www.patreon.com/shavcode)
-
-## Credits
-
-Developed by [Shav Code](https://shavcode.com)
-
-## Links
-
-- [WordPress Plugin Page](https://wordpress.org/plugins/elementor-page-builder-assistant/) (Coming Soon)
-- [Documentation](https://github.com/shavcode/elementor-page-builder-assistant/wiki)
-- [Issue Tracker](https://github.com/shavcode/elementor-page-builder-assistant/issues)
-- [Patreon](https://www.patreon.com/shavcode)
