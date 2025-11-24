@@ -211,7 +211,7 @@ For support requests, please:
 
 ## Screenshots
 
-![Plugin Banner](assets/banner-1544x500.png)
+![Plugin Banner](assets/screenshot-1.png)
 
 ### Plugin Interface
 
@@ -239,4 +239,5 @@ but WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 GNU General Public License for more details.
 ```
+
 
