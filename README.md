@@ -211,7 +211,7 @@ For support requests, please:
 
 ## Screenshots
 
-![Plugin Banner](assets/banner-1544x500.png)
+![Plugin Banner](assets/screenshot-1.png)
 
 ### Plugin Interface
 
