@@ -1,0 +1,96 @@
+span.hfe-shortcode-col-wrap > input {
+    background: inherit;
+    color: inherit;
+    font-size: 12px;
+    border: none;
+    box-shadow: none;
+    padding: 4px 8px;
+    margin: 0;
+}
+input.hfe-large-text{
+    width: 99%;
+}
+.hfe-options-row-heading {
+    border-right: 1px solid #E1E1E1;
+    padding: 15px;
+    width: 45%;
+    vertical-align: middle;
+}
+.hfe-options-row td {
+    padding-left: 12px;
+    padding-right: 12px;
+    border-bottom: 1px solid #f0f0f0;
+    zoom: 1;
+    vertical-align: middle;
+}
+.hfe-options-table .hfe-options-row-content {
+    padding: 15px 10px;
+    position: relative;
+    width: 55%;
+}
+.hfe-options-table.widefat {
+	border-width: 0;
+}
+.hfe-options-row-heading label {
+    display: inline-block;
+    font-size: 13px;
+    line-height: 1.4em;
+    font-weight: bold;
+    padding: 0;
+    margin: 0 0 3px;
+    color: #333;
+}
+.hfe-options-row-content select {
+    width: 95%;
+}
+.hfe_radio_options {
+    display: inline-block;
+}
+.hfe-heading-inline {
+    font-size: 23px;
+    font-weight: 400;
+    margin: 0;
+    padding: 9px 0 4px 0;
+    line-height: 1.3;
+}
+.hfe-selected-template-type-custom .hfe-shortcode {
+    display: table-row;
+}
+.hfe-selected-template-type-custom .bsf-target-rules-row,
+.hfe-selected-template-type-custom .enable-for-canvas,
+.hfe-shortcode,
+.hfe-selected-template-type-none .bsf-target-rules-row,
+.hfe-selected-template-type-none .hfe-shortcode,
+.hfe-selected-template-type-none .enable-for-canvas {
+    display: none;
+}
+/* Notice */
+#header-footer-install-notice img.custom-logo {
+    height: 30px;
+    margin-right: 6px;
+}
+#header-footer-install-notice .notice-container {
+    display: flex;
+    align-items: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#header-footer-install-notice .notice-content {
+    margin-left: 0px;
+}
+#header-footer-install-notice .notice-dismiss {
+    height: 100%;
+}
+/* EHF Settings */
+#ehf-meta-box .inside {
+    padding: 0px;
+}
+.post-type-elementor-hf .nav-tab-wrapper {
+    margin-bottom: 18px;
+    margin-top: 10px;
+}
+.post-type-elementor-hf .wrap h1.wp-heading-inline,
+.hfe-heading-inline {
+    margin-top: 10px
+}
+
